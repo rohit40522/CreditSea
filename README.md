@@ -29,7 +29,7 @@ credit-report-app/
 
 
 
-##Setup
+## Backend
  Clone the repository
    git clone https://github.com/<your-username>/credit-report-app.git
   cd credit-report-app
