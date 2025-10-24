@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'https://creditsea-backend-hpf6.onrender.com'; // Adjust if needed
+const API_BASE_URL = 'https://creditsea-backend-hpf6.onrender.com/api'; // Adjust if needed
 
 export const uploadXML = async (file) => {
   const formData = new FormData();
