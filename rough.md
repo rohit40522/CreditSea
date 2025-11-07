@@ -12,3 +12,7 @@
     -rohit
     -oraon
     
+- Home
+- Products
+- Cart
+- Checkout
